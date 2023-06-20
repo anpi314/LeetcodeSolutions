@@ -19,7 +19,6 @@ class Solution {
                         arrayList.add(i);
 
                     } else break;
-
                 }
                 for (int i = mid - 1; i >= 0; i--) {
                     if (nums[i] == target) {
